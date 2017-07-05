@@ -1,0 +1,18 @@
+{
+  "name": "vue-bulma-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI for scaffolding Vue Bulma projects.",
+  "preferGlobal": true,
+  "main": "index.js",
+  "repository": "git@github.com:vue-bulma/cli.git",
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "bulma",
+    "cli"
+  ],
+  "bin": {
+    "vb": "bin/vb"
+  }
+}
